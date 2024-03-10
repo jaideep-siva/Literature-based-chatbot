@@ -1,5 +1,5 @@
 
-##ECE Chatbot
+# IPYNB notebook
 
 This was my final project for a natural language processing class, in this project, I used various state-of-the-art tools to create a domain-based chatbot to improve the performance of pre-existing LLMs in new and niche domains.
 
