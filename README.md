@@ -1,11 +1,11 @@
 
 # ECE Chatbot
 
-This was my final project for a natural language processing class, in this project, I used various state-of-the-art tools to create a domain-based chatbot to improve performance of pre-existing LLMs in new and niche domains.
+This was my final project for a natural language processing class, in this project, I used various state-of-the-art tools to create a domain-based chatbot to improve the performance of pre-existing LLMs in new and niche domains.
 
 ## Overview
 
-The notebook is structured to provide a logical flow from basic setups to more sophisticated chatbot functionalities, ensuring a comprehensive understanding and practical approach to chatbot development within the ECE domain.
+The notebook is structured to provide a logical flow from basic setups to more sophisticated chatbot functionalities, ensuring a comprehensive understanding and practical approach to chatbot development within the provided domain.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ This section is crucial for setting up the environment required to run the noteb
 
 ### Setting up packages and dependencies
 
-Detailed instructions and commands for installing required packages and dependencies. This step ensures that your development environment is prepared for executing the subsequent sections of the notebook.
+Detailed instructions and commands for installing required packages and dependencies. This step makes sure that your development environment is prepared for executing the next sections of the notebook.
 
 ### Setting up LLM
 
@@ -36,7 +36,7 @@ Focuses on the foundational question-answering capabilities of the chatbot, incl
 
 #### Loading PDF documents
 
-Guides on how to load and process PDF documents relevant to the ECE domain, which are crucial for the chatbot to retrieve information and answer user queries.
+Guides on loading and processing PDF documents that the users want more help with and are crucial for the chatbot to retrieve information and answer user queries.
 
 #### Splitting and chunking documents
 
@@ -50,7 +50,7 @@ Covers the creation of effective prompts that lead to coherent and contextually 
 
 #### Retrieval
 
-Describes the techniques employed for retrieving accurate and pertinent information in response to user queries, ensuring the chatbot's responses are relevant and informative.
+Describes the techniques for retrieving accurate and pertinent information in response to user queries, ensuring the chatbot's responses are relevant and informative.
 
 #### Text processing for better presentation
 
@@ -58,7 +58,7 @@ Focuses on enhancing the readability and presentation of the chatbot's responses
 
 ## Evaluation
 
-This section details the methods and criteria used to evaluate the chatbot's performance, with a particular focus on its ability to understand and respond to complex queries about relation extraction and perplexity.
+This section details the methods and criteria used to evaluate the chatbot's performance, with a particular focus on its ability to understand and respond to complex queries about relation extraction and perplexity which are methods specific to the documents provided.
 
 ### Handling Out-of-Document Questions
 
