@@ -1,7 +1,7 @@
 
 # ECE Chatbot
 
-This Jupyter Notebook titled "ECE Chatbot" is a detailed project focused on the development of a chatbot specialized in the field of Electrical and Computer Engineering (ECE). The notebook walks through various stages of chatbot development, from initial setup to complex question-answering functionalities, leveraging advanced natural language processing techniques.
+This was my final project for a natural language processing class, in this project, I used various state-of-the-art tools to create a domain-based chatbot to improve performance of pre-existing LLMs in new and niche domains.
 
 ## Overview
 
